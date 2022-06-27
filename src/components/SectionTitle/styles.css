@@ -1,0 +1,10 @@
+.titulo-secao {
+  margin-bottom: 10px;
+}
+
+.titulo-secao h2 {
+  font-weight: 400;
+  font-size: 1.4rem;
+  text-transform: uppercase;
+}
+

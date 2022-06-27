@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --principal: #3a679b;
+  --texto: #464646;
+  --branco: #FFF;
+}
+
+body {
+  background-color: #F7F7F7;
+}
+
+body, button {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1rem;
+  color: var(--texto);
+}
